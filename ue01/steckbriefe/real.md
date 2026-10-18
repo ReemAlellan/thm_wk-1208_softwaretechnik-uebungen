@@ -10,5 +10,5 @@ Ich habe bisher wenig Erfahrung mit Softwareentwicklung und lerne die grundlagen
 
 ## Das erwarte ich von der Veranstaltung
 
-Ich möchte in der Veranstaltung neue Erfahrungen sammeln, mein Wissen erweitern und mehr über Softwareentwicklung lernen.
+Ich möchte in der Veranstaltung neue Erfahrungen sammeln, mein Wissen erweitern und mehr über Softwareentwicklung lernen. Außerdem möchte ich lernen, wie man gemeinsam an Softwareprojekten arbeitet.
  
