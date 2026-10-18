@@ -6,7 +6,7 @@ Wirtschaftsinformatik, 3.Semseter
 
 ## Meine bisherige Erfahrung mit Softwareentwicklung
 
-Ich habe bisher keine Erfahrung mit Softwareentwicklung und lerne die grundlagen im Studuim.
+Ich habe bisher wenig Erfahrung mit Softwareentwicklung und lerne die grundlagen im Studuim.
 
 ## Das erwarte ich von der Veranstaltung
 
